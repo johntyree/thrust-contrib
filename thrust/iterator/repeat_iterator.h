@@ -3,6 +3,7 @@
 #ifndef THRUST_REPEAT_ITERATOR_H
 #define THRUST_REPEAT_ITERATOR_H
 
+/* Remove this header */
 #include <GNUC_47_compat.h>
 
 #include <iostream>
