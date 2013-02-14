@@ -4,7 +4,7 @@
 #define THRUST_REPEAT_ITERATOR_H
 
 /* Remove this header */
-#include <GNUC_47_compat.h>
+// #include <GNUC_47_compat.h>
 
 #include <thrust/iterator/iterator_adaptor.h>
 
